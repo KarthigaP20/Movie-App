@@ -99,7 +99,7 @@ Developed by [Karthiga P](https://github.com/KarthigaP20)
 
 ## Live Demo
 
-Visit the live site: [Movie App](https://karthigap20.github.io/movie-app/)
+Visit the live site: [Movie App](https://movie-app-sigma-ten-14.vercel.app/)
 
 ## Feedback
 
